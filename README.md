@@ -2,7 +2,7 @@
 
 ## Latest posts
 
-- [Astro static build hosted on Deno Deploy](https://appjeniksaan.nl/posts/astro-static-build-hosted-on-deno-deploy/)
+- [Astro static build hosted on Deno Deploy](https://appjeniksaan.nl/posts/astro-static-build-hosted-on-deno-deploy/) _(May 9, 2023)_
 - [From QWERTY to Colemak](https://appjeniksaan.nl/posts/colemak/)
 
 ## Latest linked
