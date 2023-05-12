@@ -6,9 +6,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      CI_COMMIT_MESSAGE: Automatic README.md update
-      CI_COMMIT_AUTHOR: Github Action
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
