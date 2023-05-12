@@ -1,15 +1,15 @@
 # Latest posts
 
 - [Astro static build hosted on Deno Deploy](https://appjeniksaan.nl/posts/astro-static-build-hosted-on-deno-deploy/)
-  – May 11, 2023
+  <sub><sup>– May 11, 2023</sup></sub>
 - [From QWERTY to Colemak](https://appjeniksaan.nl/posts/colemak/)
-  – May 9, 2023
+  <sub><sup>– May 9, 2023</sup></sub>
 
 # Latest linked articles
 
 - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
-  – [May 12, 2023](https://appjeniksaan.nl/linked/do-the-weirdest-thing-that-feels-right/)
+  <sub><sup>– [May 12, 2023](https://appjeniksaan.nl/linked/do-the-weirdest-thing-that-feels-right/)</sup></sub>
 - [Baseline](https://web.dev/baseline/)
-  – [May 11, 2023](https://appjeniksaan.nl/linked/baseline/)
+  <sub><sup>– [May 11, 2023](https://appjeniksaan.nl/linked/baseline/)</sup></sub>
 - [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/)
-  – [May 4, 2023](https://appjeniksaan.nl/linked/my-product-is-my-garden/)
+  <sub><sup>– [May 4, 2023](https://appjeniksaan.nl/linked/my-product-is-my-garden/)</sup></sub>
