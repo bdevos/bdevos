@@ -9,12 +9,11 @@
 
 # Latest linked articles
 
+- [My Greatest Fear](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
+  <sub><sup>– [June 3, 2023](https://appjeniksaan.nl/linked/fear/)</sup></sub>
 - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
   <sub><sup>–
   [May 12, 2023](https://appjeniksaan.nl/linked/do-the-weirdest-thing-that-feels-right/)</sup></sub>
 - [Baseline](https://web.dev/baseline/)
   <sub><sup>–
   [May 11, 2023](https://appjeniksaan.nl/linked/baseline/)</sup></sub>
-- [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/)
-  <sub><sup>–
-  [May 4, 2023](https://appjeniksaan.nl/linked/my-product-is-my-garden/)</sup></sub>
