@@ -9,11 +9,12 @@
 
 # Latest linked articles
 
+- [Software engineers hate code](https://www.dancowell.com/software-engineers-hate-code/)
+  <sub><sup>–
+  [August 7, 2023](https://appjeniksaan.nl/linked/software-engineers-hate-code/)</sup></sub>
+- [Edutainment](https://giansegato.com/essays/edutainment-is-not-learning)
+  <sub><sup>–
+  [July 8, 2023](https://appjeniksaan.nl/linked/edutainment/)</sup></sub>
 - [Finish your projects](https://github.com/readme/guides/finish-your-projects)
   <sub><sup>–
   [June 18, 2023](https://appjeniksaan.nl/linked/finish-your-projects/)</sup></sub>
-- [Plainspokenness is a World of LLMs](https://boz.com/articles/be-plainspoken)
-  <sub><sup>–
-  [June 3, 2023](https://appjeniksaan.nl/linked/plainspoken/)</sup></sub>
-- [My Greatest Fear](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
-  <sub><sup>– [June 3, 2023](https://appjeniksaan.nl/linked/fear/)</sup></sub>
