@@ -9,12 +9,12 @@
 
 # Latest linked articles
 
+- [Speed matters](https://jsomers.net/blog/speed-matters)
+  <sub><sup>–
+  [August 8, 2023](https://appjeniksaan.nl/linked/speed-matters/)</sup></sub>
 - [Software engineers hate code](https://www.dancowell.com/software-engineers-hate-code/)
   <sub><sup>–
   [August 7, 2023](https://appjeniksaan.nl/linked/software-engineers-hate-code/)</sup></sub>
 - [Edutainment](https://giansegato.com/essays/edutainment-is-not-learning)
   <sub><sup>–
   [July 8, 2023](https://appjeniksaan.nl/linked/edutainment/)</sup></sub>
-- [Finish your projects](https://github.com/readme/guides/finish-your-projects)
-  <sub><sup>–
-  [June 18, 2023](https://appjeniksaan.nl/linked/finish-your-projects/)</sup></sub>
