@@ -9,12 +9,12 @@
 
 # Latest linked articles
 
+- [Download the things you ❤️](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
+  <sub><sup>–
+  [August 31, 2023](https://appjeniksaan.nl/linked/download-the-things-you-love/)</sup></sub>
 - [Speed matters](https://jsomers.net/blog/speed-matters)
   <sub><sup>–
   [August 8, 2023](https://appjeniksaan.nl/linked/speed-matters/)</sup></sub>
 - [Software engineers hate code](https://www.dancowell.com/software-engineers-hate-code/)
   <sub><sup>–
   [August 7, 2023](https://appjeniksaan.nl/linked/software-engineers-hate-code/)</sup></sub>
-- [Edutainment](https://giansegato.com/essays/edutainment-is-not-learning)
-  <sub><sup>–
-  [July 8, 2023](https://appjeniksaan.nl/linked/edutainment/)</sup></sub>
