@@ -9,12 +9,12 @@
 
 # Latest linked articles
 
+- [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
+  <sub><sup>–
+  [October 30, 2023](https://appjeniksaan.nl/linked/splitting-the-web/)</sup></sub>
 - [Putting the "You" in CPU](https://cpu.land)
   <sub><sup>–
   [September 5, 2023](https://appjeniksaan.nl/linked/putting-the-you-in-cpu/)</sup></sub>
 - [Download the things you ❤️](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
   <sub><sup>–
   [August 31, 2023](https://appjeniksaan.nl/linked/download-the-things-you-love/)</sup></sub>
-- [Speed matters](https://jsomers.net/blog/speed-matters)
-  <sub><sup>–
-  [August 8, 2023](https://appjeniksaan.nl/linked/speed-matters/)</sup></sub>
