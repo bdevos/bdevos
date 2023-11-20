@@ -1,11 +1,11 @@
 # Latest posts
 
+- [Deno.cron](https://appjeniksaan.nl/posts/deno-cron/)
+  <sub><sup>– November 20, 2023</sup></sub>
 - [Update Github profile README from RSS](https://appjeniksaan.nl/posts/update-github-profile-readme-from-rss/)
   <sub><sup>– May 12, 2023</sup></sub>
 - [Astro static build hosted on Deno Deploy](https://appjeniksaan.nl/posts/astro-static-build-hosted-on-deno-deploy/)
   <sub><sup>– May 11, 2023</sup></sub>
-- [From QWERTY to Colemak](https://appjeniksaan.nl/posts/colemak/)
-  <sub><sup>– May 9, 2023</sup></sub>
 
 # Latest linked articles
 
