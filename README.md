@@ -9,7 +9,7 @@
 
 # Latest linked articles
 
-- [Start with something that does nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
+- [Start with Something That Does Nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
   <sub><sup>–
   [November 26, 2023](https://appjeniksaan.nl/linked/start-with-something-that-does-nothing/)</sup></sub>
 - [🫨 theshook.¹](https://theshook.one)
