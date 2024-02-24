@@ -1,11 +1,11 @@
 # Latest posts
 
+- [Table row styling with CSS Grid](https://appjeniksaan.nl/posts/table-row-styling-with-css-grid/)
+  <sub><sup>– February 24, 2024</sup></sub>
 - [Reading Activity](https://appjeniksaan.nl/posts/reading-activity/)
   <sub><sup>– February 18, 2024</sup></sub>
 - [Deno.cron](https://appjeniksaan.nl/posts/deno-cron/)
   <sub><sup>– November 20, 2023</sup></sub>
-- [Update Github profile README from RSS](https://appjeniksaan.nl/posts/update-github-profile-readme-from-rss/)
-  <sub><sup>– May 12, 2023</sup></sub>
 
 # Latest linked articles
 
