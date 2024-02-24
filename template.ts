@@ -1,4 +1,4 @@
-import type { FeedEntry } from "https://deno.land/x/rss@0.5.8/src/types/feed.ts";
+import type { FeedEntry } from "https://deno.land/x/rss@1.0.0/src/types/feed.ts";
 import { dateFormatter } from "./formatter.ts";
 
 export const linkedTemplate = (entry: FeedEntry) =>
