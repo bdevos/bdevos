@@ -9,7 +9,7 @@ const feed = await parseFeed(xml);
 
 const [linked, posts] = partition(
   feed.entries,
-  ({ attachments }) => !!attachments
+  ({ attachments }) => !!attachments,
 );
 
 const linkedContent = linked.slice(0, 3).map(linkedTemplate).join("\n");
@@ -19,5 +19,5 @@ const template = await Deno.readTextFile("./template.md");
 
 await Deno.writeTextFile(
   "./README.md",
-  template.replace("<posts>", postsContent).replace("<linked>", linkedContent)
+  template.replace("<posts>", postsContent).replace("<linked>", linkedContent),
 );
