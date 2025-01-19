@@ -9,11 +9,12 @@
 
 # Latest linked articles
 
-- [Slop](https://simonwillison.net/2024/May/8/slop/)
-  <sub><sup>– [May 11, 2024](https://appjeniksaan.nl/linked/slop/)</sup></sub>
-- [The compounding seeds of creativity](https://world.hey.com/dhh/the-compounding-seeds-of-creativity-e7e212c0)
+- [Spot the Difference Hack](https://danielwirtz.com/blog/spot-the-difference-superpower)
   <sub><sup>–
-  [April 28, 2024](https://appjeniksaan.nl/linked/the-compounding-seeds-of-creativity/)</sup></sub>
-- [Start with Something That Does Nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
+  [January 19, 2025](https://appjeniksaan.nl/linked/spot-the-difference-hack/)</sup></sub>
+- [Remap Caps Lock to Backspace in macOS](http://homeowmorphism.com/2017/05/27/Remap-CapsLock-Backspace-Sierra)
   <sub><sup>–
-  [November 26, 2023](https://appjeniksaan.nl/linked/start-with-something-that-does-nothing/)</sup></sub>
+  [October 27, 2024](https://appjeniksaan.nl/linked/remap-caps-lock-to-backspace-in-mac-os/)</sup></sub>
+- [The quiet art of attention](https://billwear.github.io/art-of-attention.html)
+  <sub><sup>–
+  [October 20, 2024](https://appjeniksaan.nl/linked/the-quiet-art-of-attention/)</sup></sub>
