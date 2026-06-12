@@ -1,9 +1,11 @@
 # Latest posts
 
+- [The Personal App Revolution Has Hit a Speedbump](https://appjeniksaan.nl/posts/the-personal-app-revolution/)
+  <sub><sup>– June 12, 2026</sup></sub>
+- [Remapping Backspace to Delete](https://appjeniksaan.nl/posts/remapping-backspace-as-delete/)
+  <sub><sup>– April 3, 2026</sup></sub>
 - [My first iOS app](https://appjeniksaan.nl/posts/my-first-ios-app/)
   <sub><sup>– August 20, 2025</sup></sub>
-- [Astro render content for RSS](https://appjeniksaan.nl/posts/astro-render-content-for-rss/)
-  <sub><sup>– February 9, 2025</sup></sub>
 
 # Latest linked articles
 
